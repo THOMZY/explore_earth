@@ -1,4 +1,4 @@
-# 🌍 A Collection of cool websites to explore the world 🌍  
+# 🌍 A collection of cool websites to explore the world 🌍  
 
 ## 🗺️ Maps & Satellite Views  
 
