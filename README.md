@@ -11,6 +11,7 @@
 
 ## 🛰️ Space & Satellites  
 
+- **[Space Telescope Live](https://spacetelescopelive.org/)** – Live tracking of Hubble and James Webb space telescopes.  
 - **[Stuff In Space](https://stuffin.space/)** – 3D live map of objects orbiting Earth.  
 - **[Solar System Scope](https://www.solarsystemscope.com/)** – Interactive 3D map of the Solar System.  
 - **[Stellarium](https://stellarium-web.org/)** – Live sky map showing stars, planets, and constellations.  
