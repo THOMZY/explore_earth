@@ -39,7 +39,7 @@
 ## 🎵 Radio & Audio Exploration  
 
 - **[Radio Garden](https://radio.garden)** – Listen to live radio stations worldwide.
-- **[Drive and Listen](https://drivenlisten.com/)** – Drive across your favorite city or your home town and listen to local radio stations from the comfort of your home.  
+- **[Drive and Listen](https://drivenlisten.com/)** – Drive across your favorite city and listen to local radio stations.  
 
     
 Enjoy exploring the world from your screen! 🚀🌍🔭 
