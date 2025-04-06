@@ -36,8 +36,9 @@
 - 🌐 **[Submarine Cable Map](https://www.submarinecablemap.com)** – See all the underwater internet cables worldwide.  
 - ☢️ **[Geiger Counter Map](https://gmcmap.com/)** – Real-time radiation monitoring across the world.  
 
-## 🎵 Radio & Audio Exploration  
+## 🎵 Audio & Video Exploration  
 
+- 📺 **[TV Garden](https://tv.garden)** – Watch live TV worldwide.  
 - 📻 **[Radio Garden](https://radio.garden)** – Listen to live radio stations worldwide.  
 - 🚗 **[Drive and Listen](https://drivenlisten.com/)** – Drive across your favorite city and listen to local radio stations.  
 
